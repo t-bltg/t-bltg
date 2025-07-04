@@ -4,18 +4,9 @@
 
 🚧 I was previously an engineer in electronics, and I also hold a PhD in applied maths for fluid mechanics.
 
-<div class="row">
-  I work with these languages:&nbsp;
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg"/>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"/>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"/>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>.
-</div>
+I work with these languages:&nbsp;<img height=15 src="https://skillicons.dev/icons?i=julia,python,bash,latex,fortran,c,cpp,rust"/>.
 
-And on <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/> of course.
+And on&nbsp;<img height=15 src="https://skillicons.dev/icons?i=linux"/>&nbsp;of course.
 
 [![t-bltg's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-bltg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
