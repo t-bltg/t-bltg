@@ -6,7 +6,7 @@
 
 I work with these languages:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=julia,python,bash,latex,fortran,c,cpp,rust"/>.
 
-And on&nbsp;<img height=10 src="https://skillicons.dev/icons?i=linux"/>&nbsp;of course.
+And on&nbsp;<img height=10 src="https://skillicons.dev/icons?i=ubuntu"/>&nbsp;of course.
 
 [![t-bltg's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-bltg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
