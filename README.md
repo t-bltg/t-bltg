@@ -4,7 +4,7 @@
 
 🚧 I was previously an engineer in electronics, and I also hold a PhD in applied maths for fluid mechanics.
 
-I work with these languages:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=julia,python,bash,latex,fortran,c,cpp,rust"/>.
+I work with these languages:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=julia,bash,python,latex,fortran,c,cpp,rust"/>.
 
 And on&nbsp;<img height=10 src="https://skillicons.dev/icons?i=ubuntu,linux"/>&nbsp;of course.
 
