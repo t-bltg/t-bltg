@@ -4,7 +4,9 @@
 
 🚧 In a previous life I was an engineer in electronics/mechanics, and I also hold a PhD in applied maths for fluid mechanics.
 
-I work with these languages:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=julia,bash,python,latex,fortran,c,cpp,rust"/>.
+I work mostly with these languages:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=julia,bash,python,latex,fortran,c,cpp,rust"/>.
+
+My workflow also involves these:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=sublime,github,git,md,html,cmake,stackoverflow,regex,octave,arduino"/>.
 
 And on&nbsp;<img height=10 src="https://skillicons.dev/icons?i=ubuntu,linux"/>&nbsp;of course.
 
