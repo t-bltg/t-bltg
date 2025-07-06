@@ -2,7 +2,7 @@
 
 ⚕️ I’m currently studying medicine !
 
-🚧 I was previously an engineer in electronics, and I also hold a PhD in applied maths for fluid mechanics.
+🚧 In a previous life I was an engineer in electronics/mechanics, and I also hold a PhD in applied maths for fluid mechanics.
 
 I work with these languages:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=julia,bash,python,latex,fortran,c,cpp,rust"/>.
 
