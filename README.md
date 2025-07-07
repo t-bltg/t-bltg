@@ -6,7 +6,7 @@
 
 I work mostly with these languages:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=julia,bash,python,latex,fortran,c,cpp,rust"/>.
 
-My workflow also involves these:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=sublime,github,git,md,html,cmake,stackoverflow,regex,octave,arduino"/>.
+My workflow also involves these tools:&nbsp;<img height=10 src="https://skillicons.dev/icons?i=sublime,github,git,md,html,cmake,stackoverflow,regex"/>.
 
 And on&nbsp;<img height=10 src="https://skillicons.dev/icons?i=ubuntu,linux"/>&nbsp;of course.
 
