@@ -8,7 +8,7 @@ I work mostly with these languages:&nbsp;<img height=30 src="https://skillicons.
 
 My workflow also involves these tools:&nbsp;<img height=30 src="https://skillicons.dev/icons?i=sublime,github,git,md,html,cmake,stackoverflow,regex"/>.
 
-And on&nbsp;<img height=30 src="https://skillicons.dev/icons?i=ubuntu,linux"/>&nbsp;of course.
+And on&nbsp;<img height=30 src="https://skillicons.dev/icons?i=linux,ubuntu"/>&nbsp;of course.
 
 [![GitHub stats](<https://github-readme-stats.vercel.app/api?username=t-bltg&custom_title=GitHub Stats&hide_border=false&show_icons=true&theme=dark>)](https://github.com/anuraghazra/github-readme-stats)
 
