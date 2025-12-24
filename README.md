@@ -10,7 +10,7 @@ My workflow also involves these tools:&nbsp;<img height=30 src="https://skillico
 
 And on&nbsp;<img height=30 src="https://skillicons.dev/icons?i=linux,ubuntu"/>&nbsp;of course.
 
-[![GitHub stats](<https://github-readme-stats.vercel.app/api?username=t-bltg&custom_title=GitHub Stats&hide_border=false&show_icons=true&theme=dark>)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](<https://github-readme-stats.vercel.app/api?username=t-bltg&custom_title=GitHub Stats&hide_border=false&show_icons=true&theme=dark>)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **t-bltg/t-bltg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
