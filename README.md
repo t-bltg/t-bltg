@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚕️ I’m currently studying medicine !
+🩺 I’m currently studying medicine !
 
 🚧 In a previous life I was an engineer in electronics/mechanics, and I also hold a PhD in applied maths for fluid mechanics.
 
